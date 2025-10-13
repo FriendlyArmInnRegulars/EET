@@ -67,7 +67,15 @@ LANGUAGE ~Simplified Chinese~
 	~EET/lang/zh_CN/dialog.tra~
 	~EET/lang/zh_CN/2da.tra~
 	~EET/lang/zh_CN/compatibility.tra~
-	
+LANGUAGE ~Japanese~
+	~ja_JP~
+	~EET/lang/ja_JP/prompts.tra~
+	~EET/lang/ja_JP/setup.tra~
+	~EET/lang/ja_JP/chapters.tra~
+	~EET/lang/ja_JP/dialog.tra~
+	~EET/lang/ja_JP/2da.tra~
+	~EET/lang/ja_JP/compatibility.tra~
+
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////                                                  \\\\\
