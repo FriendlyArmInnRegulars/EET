@@ -1,90 +1,90 @@
 // WeiDU prompts
-@-1000 = ~The %TP2_FILE_NAME% mod has~
-@-1001 = ~distinct optional components.
-To save time, you can choose what to do with them at a high level rather
-than being asked about each one.
+@-1000 = ~%TP2_FILE_NAME% modには~
+@-1001 = ~個の個別のオプションコンポーネントがあります。
+時間を節約するため、それぞれについて尋ねられるのではなく、
+高いレベルで何をするかを選択できます。
 ~
-@-1002 = ~What should be done with all components that are NOT YET installed?
-[I]nstall them, [S]kip them, [A]sk about each one?~
-@-1003 = ~What should be done with all components that are ALREADY installed?
-[R]e-install them, [U]ninstall them, [S]kip them, [A]sk about each one?~
+@-1002 = ~まだインストールされていないすべてのコンポーネントに対して何をすべきですか？
+[I]インストールする、[S]スキップする、[A]それぞれについて尋ねる？~
+@-1003 = ~すでにインストールされているすべてのコンポーネントに対して何をすべきですか？
+[R]再インストールする、[U]アンインストールする、[S]スキップする、[A]それぞれについて尋ねる？~
 
-@-1004 = ~PLEASE email the file~
-@-1005 = ~to~
+@-1004 = ~ファイルをメールで送信してください~
+@-1005 = ~宛先~
 
-@-1006 = ~Install Component [~
-@-1007 = ~]?
-[R]e-Install, [N]o Change or [U]ninstall or [Q]uit? ~
-@-1008 = ~]?
-[I]nstall, or [N]ot Install or [Q]uit? ~
+@-1006 = ~コンポーネント [~
+@-1007 = ~] をインストールしますか？
+[R]再インストール、[N]変更なし、[U]アンインストール、[Q]終了？ ~
+@-1008 = ~] をインストールしますか？
+[I]インストールする、[N]インストールしない、[Q]終了？ ~
 
-@-1009 = ~Enter part of a module name: ~
+@-1009 = ~モジュール名の一部を入力してください: ~
 
-@-1010 = ~Re-Installing [~
-@-1011 = ~] component ~
-@-1012 = ~Re-Installing Using Language~
+@-1010 = ~再インストール中 [~
+@-1011 = ~] コンポーネント ~
+@-1012 = ~言語を使用して再インストール中~
 
-@-1013 = ~Removing old installation of [~
-@-1014 = ~] first ...~
-@-1015 = ~SUCCESSFULLY REMOVED OLD~
+@-1013 = ~古いインストール [~
+@-1014 = ~] を削除中 ...~
+@-1015 = ~古いインストールの削除に成功しました~
 
-@-1016 = ~Installing~
-@-1017 = ~ERROR Installing [~
-@-1018 = ~], rolling back to previous state~
-@-1019 = ~SUCCESSFULLY INSTALLED ~
-@-1020 = ~Skipping~
-@-1021 = ~Removing [~
-@-1022 = ~] (component #~
+@-1016 = ~インストール中~
+@-1017 = ~エラー：インストール中 [~
+@-1018 = ~]、前の状態にロールバックしています~
+@-1019 = ~インストールに成功しました ~
+@-1020 = ~スキップ中~
+@-1021 = ~削除中 [~
+@-1022 = ~] (コンポーネント #~
 @-1023 = ~)~
-@-1024 = ~SUCCESSFULLY REMOVED [~
+@-1024 = ~削除に成功しました [~
 
 @-1025 = ~]?
-[R]e-install, [N]o Change, [U]ninstall, [Q]uit or choose one:~
+[R]再インストール、[N]変更なし、[U]アンインストール、[Q]終了、または選択してください:~
 @-1026 = ~]?
-[N]o, [Q]uit or choose one:~
-@-1027 = ~ (currently installed)~
+[N]いいえ、[Q]終了、または選択してください:~
+@-1027 = ~ (現在インストール済み)~
 
-@-1028 = ~Would you like to display the components from [~
+@-1028 = ~コンポーネントを表示しますか [~
 @-1029 = ~]?
-[Y]es, [N]o? ~
+[Y]はい、[N]いいえ? ~
 
 @-1030 = ~]?
-choose one:~
+選択してください:~
 @-1031 = ~]?
-[R]e-install, [N]o Change, [Q]uit or choose one:~
-@-1032 = ~NOT INSTALLED DUE TO ERRORS~
-@-1033 = ~INSTALLED WITH WARNINGS ~
-@-1034 = ~Would you like to display the readme? [Y]es [N]o~
-@-1035 = ~Using Language~
+[R]再インストール、[N]変更なし、[Q]終了、または選択してください:~
+@-1032 = ~エラーによりインストールされませんでした~
+@-1033 = ~警告付きでインストールされました ~
+@-1034 = ~readmeを表示しますか？ [Y]はい [N]いいえ~
+@-1035 = ~使用言語~
 
-@-1036 = ~Skipping GROUP [~
-@-1037 = ~] because it fails its requirements.~
+@-1036 = ~グループをスキップ中 [~
+@-1037 = ~] 要件を満たしていないため。~
 
-@-1038 = ~[A]sk about each component, [S]kip all, or choose a pre-defined selection:~
-@-1039 = ~[A]sk about each component, [R]einstall the current configuration, [U]ninstall all, [S]kip all, or choose a pre-defined selection:~
+@-1038 = ~[A]それぞれのコンポーネントについて尋ねる、[S]すべてをスキップ、または事前定義された選択を選んでください:~
+@-1039 = ~[A]それぞれのコンポーネントについて尋ねる、[R]現在の構成を再インストール、[U]すべてをアンインストール、[S]すべてをスキップ、または事前定義された選択を選んでください:~
 
 @-1040 = ~
-Please choose the language in which you wish to play the game.
-If you later wish to play the game in a different language you will need to edit the file weidu.conf and reinstall your mods.
+ゲームをプレイする言語を選択してください。
+後で別の言語でゲームをプレイしたい場合は、weidu.confファイルを編集してmodを再インストールする必要があります。
 ~
-@-1041 = ~Czech~
-@-1042 = ~German~
-@-1043 = ~English~
-@-1044 = ~Spanish~
-@-1045 = ~French~
-@-1046 = ~Italian~
-@-1047 = ~Polish~
-@-1048 = ~Portuguese~
-@-1049 = ~Turkish~
-@-1050 = ~Japanese~
-@-1051 = ~Korean~
-@-1052 = ~Simplified Chinese~
+@-1041 = ~チェコ語~
+@-1042 = ~ドイツ語~
+@-1043 = ~英語~
+@-1044 = ~スペイン語~
+@-1045 = ~フランス語~
+@-1046 = ~イタリア語~
+@-1047 = ~ポーランド語~
+@-1048 = ~ポルトガル語~
+@-1049 = ~トルコ語~
+@-1050 = ~日本語~
+@-1051 = ~韓国語~
+@-1052 = ~簡体字中国語~
 
 @-1060 = ~
-This game is available in multiple languages, but WeiDU does not know which game language was used when this mod was installed.
+このゲームは複数の言語で利用できますが、WeiDUはこのmodがインストールされた時にどのゲーム言語が使用されたかを知りません。
 
-Please indicate which game language was used when you installed this mod. Your choice will be used until WeiDU exits but will not be remembered.
+このmodをインストールした時に使用したゲーム言語を指定してください。選択はWeiDUが終了するまで使用されますが、記憶されません。
 ~
 @-1061 = ~
-Using~
-@-1062 = ~ and ~
+使用中~
+@-1062 = ~ および ~

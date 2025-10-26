@@ -1,30 +1,30 @@
 //setup-EET
-@900000 = ~EET core (resource importation)~
-@900001 = ~Please install it on BG2:EE engine~
-@900002 = ~EET should be installed BEFORE BP-BGT Worldmap~
-@900003 = ~Detected BG:EE directory as %bgee_dir%.
-Is this correct? [Y]es or [N]o~
-@900004 = ~Enter the full path to your BG:EE+SoD installation then press Enter.
-Example: C:\Program Files (x86)\BeamDog\Games\00806~
-@900005 = ~Invalid directory, or incorrect BG:EE+SoD installation.
-It is safe to abort this installation by closing this window or pressing Ctrl+C.~
-@900006 = ~You've installed wrong The Stone of Askavar component. EET is compatible with Default version (option 1 during installation).~
-@900007 = ~You've installed wrong Drizzt Saga component. EET is compatible with Default version (option 1 during installation).~
-@900008 = ~%col1% BG:EE mod is not recognized by EET, so it can't be imported to BG2:EE with EET~
-@900009 = ~This component requires EET initialise component to be installed first~
+@900000 = ~EETコア（リソースインポート）~
+@900001 = ~BG2:EEエンジンにインストールしてください~
+@900002 = ~EETはBP-BGT Worldmapより前にインストールする必要があります~
+@900003 = ~BG:EEディレクトリを%bgee_dir%として検出しました。
+これは正しいですか？ [Y]はい、または[N]いいえ~
+@900004 = ~BG:EE+SoDのフルパスを入力してEnterを押してください。
+例: C:\Program Files (x86)\BeamDog\Games\00806~
+@900005 = ~無効なディレクトリ、またはBG:EE+SoDのインストールが正しくありません。
+このウィンドウを閉じるか、Ctrl+Cを押すことで、このインストールを安全に中止できます。~
+@900006 = ~The Stone of Askavarコンポーネントを誤ってインストールしました。EETはデフォルトバージョン（インストール時のオプション1）と互換性があります。~
+@900007 = ~Drizzt Sagaコンポーネントを誤ってインストールしました。EETはデフォルトバージョン（インストール時のオプション1）と互換性があります。~
+@900008 = ~%col1% BG:EE modはEETによって認識されないため、EETを使用してBG2:EEにインポートできません~
+@900009 = ~このコンポーネントには、最初にEET initializeコンポーネントがインストールされている必要があります~
 
-@900100 = ~Create desktop shortcut~
-@900101 = ~Skipped by WeiDU argument~
-@900102 = ~Not available for this system~
+@900100 = ~デスクトップショートカットを作成~
+@900101 = ~WeiDU引数によりスキップされました~
+@900102 = ~このシステムでは利用できません~
 
 //setup-EET_end
-@910000 = ~EET end (last mod in install order)~
-@910001 = ~This component requires EET core component to be installed first~
-@910002 = ~Standard installation~
-@910003 = ~Also update saves (no backups, check the readme file)~
+@910000 = ~EETエンド（インストール順序で最後のmod）~
+@910001 = ~このコンポーネントには、最初にEETコアコンポーネントがインストールされている必要があります~
+@910002 = ~標準インストール~
+@910003 = ~セーブデータも更新（バックアップなし、readmeファイルを確認してください）~
 
 //setup-EET_GUI
 @920000 = ~Siege of Dragonspear~
-@920001 = ~EET alternative GUI~
+@920001 = ~EET代替GUI~
 @920002 = ~Icewind Dale: Enhanced Edition~
-@920003 = ~This component require EET~
+@920003 = ~このコンポーネントにはEETが必要です~

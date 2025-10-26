@@ -1,87 +1,87 @@
 //CHARSND.2DA
-@4000000 = ~BG2 Male 1~
-@4000001 = ~BG2 Male 2~
-@4000002 = ~BG2 Male 3~
-@4000003 = ~BG2 Male 4~
-@4000004 = ~BG2 Male 5~
-@4000005 = ~BG2 Female 1~
-@4000006 = ~BG2 Female 2~
-@4000007 = ~BG2 Female 3~
-@4000008 = ~BG2 Female 4~
-@4000009 = ~BG1 Male (default)~
-@4000010 = ~BG1 Female (default)~
+@4000000 = ~BG2 男性1~
+@4000001 = ~BG2 男性2~
+@4000002 = ~BG2 男性3~
+@4000003 = ~BG2 男性4~
+@4000004 = ~BG2 男性5~
+@4000005 = ~BG2 女性1~
+@4000006 = ~BG2 女性2~
+@4000007 = ~BG2 女性3~
+@4000008 = ~BG2 女性4~
+@4000009 = ~BG1 男性（デフォルト）~
+@4000010 = ~BG1 女性（デフォルト）~
 
 //CAMPAIGN.2DA / UI.MENU
-@4000100 = ~"He who fights with monsters should look to it that he himself does not become a monster... when you gaze long into the abyss the abyss also gazes into you..." -Friedrich Nietzsche.
+@4000100 = ~「怪物と戦う者は、自らも怪物とならぬよう注意せよ...深淵を長く覗く者を、深淵もまた覗き返す...」 ―フリードリヒ・ニーチェ
 
-For as long as you can remember, your view of the world has been limited to the heavily fortified walls of Candlekeep. Your foster father, Gorion, has done everything in his power to protect you and keep you out of harm's way.
+あなたが覚えている限り、あなたの世界観は、キャンドルキープの堅固な城壁に限られてきた。養父ゴライオンは、あなたを守り、危害から遠ざけるために力の限りを尽くしてきた。
 
-All of that is about to change. Forced to leave your home under mysterious circumstances, you find yourself drawn into a conflict that has the Sword Coast on the brink of war. An iron shortage of unknown origin threatens to plunge the city of Baldur's Gate into conflict with Amn. Meanwhile, there is something else at work, far more sinister than you can even begin to fathom...~
-@4000101 = ~"Fate leads him who follows it, and drags him who resist." -Plutarch
+しかし、それらすべてが変わろうとしている。謎めいた状況下で家を出ることを余儀なくされたあなたは、ソード・コーストを戦争の瀬戸際に立たせる紛争に巻き込まれていく。未知の原因による鉄不足が、バルダーズ・ゲートの街をアムンとの紛争に突き落とそうとしている。その一方で、何か別のものが働いている。あなたが想像し始めることさえできないほど、はるかに不吉なものが...~
+@4000101 = ~「運命は、それに従う者を導き、抵抗する者を引きずる」 ―プルタルコス
 
-The threat of war looms over the city of Baldur's Gate. A crusade marches from the north, seizing supplies, forcing locals into military service, and disrupting trade along the Sword Coast. A charismatic warrior known as the Shining Lady leads this army, her background shrouded in mystery. Rumors whisper that she follows a divine agenda. Could the gods truly guide this Shining Lady?
+戦争の脅威がバルダーズ・ゲートの街に迫っている。北から聖戦が進軍し、物資を押収し、地元民を兵役に強制し、ソード・コースト沿いの交易を混乱させている。「輝く淑女」として知られるカリスマ的な戦士がこの軍を率いており、彼女の背景は謎に包まれている。噂では、彼女は神の意図に従っているとささやかれている。神々は本当にこの「輝く淑女」を導いているのだろうか？
 
-The farther you travel from the city, the more you realize how many forces have a stake in the outcome of this conflict. Baldur's Gate has put its faith in you, but you must determine whose interests you truly serve before you face the Shining Lady among the ruins of Dragonspear Castle...~
-@4000102 = ~"The Lord of Murder shall perish, but in his doom he shall spawn a score of mortal progeny. Chaos shall be sown from their passage..." -So sayeth the Wise Alaundo
+街から遠く離れるほど、この紛争の結末に利害関係を持つ勢力がいかに多いかを実感する。バルダーズ・ゲートはあなたに信頼を寄せているが、ドラゴンスピア城の遺跡で「輝く淑女」と対峙する前に、あなたが真に仕えているのは誰の利益なのかを決めなければならない...~
+@4000102 = ~「殺戮の王は滅びるであろう。しかし彼の終末において、彼は数多の定命の子を生み出すであろう。混沌は彼らの通過から蒔かれるであろう...」 ―かく語りき賢者アランド
 
-Kidnapped. Imprisoned. Tortured. The wizard Irenicus holds you captive in his stronghold, attempting to strip you of the powers that are your birthright.
+誘拐。投獄。拷問。ウィザードのイレニカスがあなたを彼の要塞に捕らえ、あなたの生得権である力を奪おうとしている。
 
-Can you resist the evil within you, forge a legend of heroic proportions, and ultimately destroy the dark essence that haunts your dreams? Or will you embrace your monstrous nature, carve a swath of destruction across the realms, and ascend to godhood as the new Lord of Murder?~
-@4000103 = ~"There is no peace for a child of Bhaal. You've learned this lesson time and again. As all who are close to you suffer; because, of your tainted blood."
+あなたは内なる悪に抵抗し、英雄的な伝説を築き、夢を悩ませる暗黒の本質を最終的に破壊できるだろうか？　それとも、あなたは怪物的な本性を受け入れ、諸領域に破壊の帯を刻み、新たなる殺戮の王として神格へと昇るのだろうか？~
+@4000103 = ~「バールの落とし子に平和はない。あなたはこの教訓を何度も何度も学んできた。あなたに近い者すべてが苦しむのは、あなたの汚れた血のせいだ」
 
-Welcome to Baldur's Gate II: Throne of Bhaal, the expansion pack to Baldur's Gate II: Shadows of Amn, and the final chapter in the Baldur's Gate series. The time of the prophecy has come.~
-@4000104 = ~"Come one, come all! Feast your eyes upon most marvelous martial magnificence that the Underdark has to offer!" -Baeloth the Entertainer
+ようこそBaldur's Gate II: Throne of Bhaalへ。Baldur's Gate II: Shadows of Amnの拡張パック、そしてBaldur's Gateシリーズの最終章です。預言の時が来ました。~
+@4000104 = ~「さあ、皆さん、お集まりください！　アンダーダークが提供する最も素晴らしい武技の壮麗さに目を奪われてください！」 ―芸人ベイロス
 
-Deep within the Underdark where few dare to tread, the mad drow Baeloth has used his extensive mastery of magic to force a duergar colony into creating an entertainment complex of his own design. He has invited guests from across the realms, from Maztica to Menzoberranzan, and they will readily attend - Baeloth is known to be an excellent showman.~
-@4000105 = ~"Come one, come all! To the greatest show this side of the Astral plane!" -Dennaton
+ほとんど誰も足を踏み入れることのないアンダーダークの奥深くで、狂気のドロウであるベイロスは、彼の広範な魔法の熟達を駆使して、ドゥエルガーの植民地に彼自身の設計による娯楽施設を作らせた。彼はマズティカからメンゾベランザンまで、諸領域から客を招待し、彼らは喜んで出席するだろう - ベイロスは優れた興行師として知られている。~
+@4000105 = ~「さあ、皆さん、お集まりください！　星界次元界のこちら側で最高のショーへ！」 ―デンナトン
 
-Welcome to Black Pits II: Gladiators of Thay, a follow-up to Baeloth's Black Pits. Explore the tactical depth of high-level Dungeons & Dragons combat. Turn your captors against each other while you dodge traps and battle for your life against Demi-Liches, Mind Flayers, and the legendary Githyanki.~
+ようこそBlack Pits II: Gladiators of Thayへ。ベイロスのBlack Pitsの続編です。高レベルDungeons & Dragonsの戦闘の戦術的深みを探求してください。罠をかわし、デミ・リッチ、マインド・フレイヤー、そして伝説のギスヤンキと命がけで戦いながら、捕獲者たちを互いに争わせてください。~
 //based on BG:EE @24353
-@4000106 = ~"Hello, child. Shall we continue your lessons?" -Tutor
+@4000106 = ~「こんにちは、子よ。レッスンを続けましょうか？」 ―教師
 
-Welcome to the Ducal Palace, the tutorial area for Baldur's Gate: Enhanced Edition. This is a simple walk-through of some of the basic skills you will need to play and enjoy the game. Once the tutorial area has loaded, an NPC (non-player character) will guide you through fighting monsters, casting spells, the use of thieving abilities, and some of the more common interactions you will experience in the game world.~
+ようこそ公爵宮殿へ。Baldur's Gate: Enhanced Editionのチュートリアルエリアです。これは、ゲームをプレイして楽しむために必要な基本的なスキルのいくつかの簡単なウォークスルーです。チュートリアルエリアがロードされると、NPC（ノンプレイヤーキャラクター）がモンスターとの戦闘、呪文の詠唱、盗賊能力の使用、そしてゲーム世界で体験するより一般的なやり取りをガイドします。~
 @4000107 = ~Baldur's Gate~
 @4000108 = ~Siege of Dragonspear~
 @4000109 = ~Shadows of Amn~
 @4000110 = ~Throne of Bhaal~
 @4000111 = ~The Black Pits~
 @4000112 = ~Gladiators of Thay~
-@4000113 = ~Tutorial~
-@4000114 = ~WARNING~
-@4000115 = ~Baldur's Gate: Enhanced Edition Trilogy mod installation has not been finished yet.
+@4000113 = ~チュートリアル~
+@4000114 = ~警告~
+@4000115 = ~Baldur's Gate: Enhanced Edition Trilogy modのインストールはまだ完了していません。
 
-AFTER installing all other mods please run "setup-EET_end.exe" to finalise the installation.
+他のすべてのmodをインストールした後、「setup-EET_end.exe」を実行してインストールを完了してください。
 
-If you're unsure what to do please check the readme file included in the mod package.~
-@4000116 = ~Chapter ~
+何をすればよいかわからない場合は、modパッケージに含まれるreadmeファイルを確認してください。~
+@4000116 = ~第~
 
 //SAVENAME.2DA
-@4000200 = ~000000007-Prologue Start~
-@4000201 = ~000000008-Chapter 1 Start~
-@4000202 = ~000000009-Chapter 2 Start~
-@4000203 = ~000000010-Chapter 3 Start~
-@4000204 = ~000000011-Chapter 4 Start~
-@4000205 = ~000000012-Chapter 5 Start~
-@4000206 = ~000000013-Chapter 6 Start~
-@4000207 = ~000000014-Chapter 7 Start~
-@4000208 = ~000000015-Chapter 7 Dungeon~
-@4000209 = ~000000016-Chapter 8 Start~
-@4000210 = ~000000017-Chapter 9 Start~
-@4000211 = ~000000018-Chapter 10 Start~
-@4000212 = ~000000019-Chapter 11 Start~
-@4000213 = ~000000020-Chapter 12 Start~
-@4000214 = ~000000021-Chapter 13 Start~
-@4000215 = ~000000022-Chapter 13 Dungeon~
-@4000216 = ~000000023-Chapter 14 Start~
-@4000217 = ~000000024-Chapter 15 Start~
-@4000218 = ~000000025-Chapter 16 Start~
-@4000219 = ~000000026-Chapter 17 Start~
-@4000220 = ~000000027-Chapter 18 Start~
-@4000221 = ~000000028-Chapter 19 Start~
-@4000222 = ~000000029-Chapter 20 Start~
-@4000223 = ~000000030-Chapter 21 Start~
-@4000224 = ~000000031-Chapter 22 Start~
+@4000200 = ~000000007-プロローグ開始~
+@4000201 = ~000000008-第1章開始~
+@4000202 = ~000000009-第2章開始~
+@4000203 = ~000000010-第3章開始~
+@4000204 = ~000000011-第4章開始~
+@4000205 = ~000000012-第5章開始~
+@4000206 = ~000000013-第6章開始~
+@4000207 = ~000000014-第7章開始~
+@4000208 = ~000000015-第7章ダンジョン~
+@4000209 = ~000000016-第8章開始~
+@4000210 = ~000000017-第9章開始~
+@4000211 = ~000000018-第10章開始~
+@4000212 = ~000000019-第11章開始~
+@4000213 = ~000000020-第12章開始~
+@4000214 = ~000000021-第13章開始~
+@4000215 = ~000000022-第13章ダンジョン~
+@4000216 = ~000000023-第14章開始~
+@4000217 = ~000000024-第15章開始~
+@4000218 = ~000000025-第16章開始~
+@4000219 = ~000000026-第17章開始~
+@4000220 = ~000000027-第18章開始~
+@4000221 = ~000000028-第19章開始~
+@4000222 = ~000000029-第20章開始~
+@4000223 = ~000000030-第21章開始~
+@4000224 = ~000000031-第22章開始~
 
 //Worldmap GUI Strings
-@4000300 = ~Hours~
-@4000301 = ~Unreachable~
+@4000300 = ~時間~
+@4000301 = ~到達不能~

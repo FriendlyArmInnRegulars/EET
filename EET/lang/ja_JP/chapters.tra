@@ -13,66 +13,66 @@
 //no translation needed for Prologue (start of BG1)
 
 //@11898+@16190+@11899 removed newlines
-@2000000 = ~The dawn is especially cruel this morning. You awake with the realization that you have not been living some horrible dream. Ambushed, you saw Gorion cut down before your eyes, and even his powerful magic could not stop the onslaught. It was his wish that you flee, but that does not remove the feeling of helplessness that now overwhelms you. "Hand over your ward," the armored fiend had said. He was after you and you alone, but why? If only Gorion had given some clue, but now you are alone and lost. Candlekeep is near, but you will find no quarter there. The readers pay for their serenity with rather draconian entry rules, and without Gorion's influence, their doors will remain closed. You will not last long on your own with your meager equipment. Perhaps you can get some help from the friends Gorion mentioned, the ones at the Friendly Arm.~ [CHAP00A]
+@2000000 = ~今朝の夜明けは特に残酷だ。目覚めたあなたは、これが恐ろしい悪夢ではなく現実だったのだと悟る。襲撃を受け、あなたはゴライオンが目の前で斬り倒されるのを目撃した。彼の強力な魔法をもってしても、その猛攻を止めることはできなかった。彼はあなたに逃げるよう望んだが、それでも今あなたを圧倒している無力感を拭い去ることはできない。「その被後見人を引き渡せ」と、鎧を着た悪魔のような者は言った。彼はあなただけを狙っていたのだ。だが、なぜ？　ゴライオンが何か手がかりを残してくれていればよかったのだが、今やあなたは独りぼっちで途方に暮れている。キャンドルキープは近くにあるが、そこであなたが受け入れられることはないだろう。読書家たちは静謐な環境の代償として極めて厳格な入館規則を設けており、ゴライオンの影響力なしには、彼らの扉は閉ざされたままだろう。貧弱な装備のままでは、長くは持たないだろう。おそらく、ゴライオンが言っていた友人たち、フレンドリーアーム・インにいる者たちから助けを得られるかもしれない。~ [CHAP00A]
 //@15836 no changes
-@2000001 = ~With your hurried flight from Candlekeep barely behind you, the troubles facing the Sword Coast seem an unfamiliar blur to your fractured nerves. Gorion would not have you sit idle, however, and perhaps investigating local concerns will shed some light on your own predicament. How the iron shortage or the trouble in the Nashkel mines could possibly be linked to you, you have no idea.~ [CHAPTER1]
+@2000001 = ~キャンドルキープからの慌ただしい逃亡をようやく終えたばかりのあなたにとって、ソードコーストが直面している問題は、傷ついた神経には見慣れないぼやけた光景に映る。しかし、ゴライオンはあなたに何もせずにいることを望まなかっただろう。おそらく、地元の問題を調査すれば、あなた自身の窮状に光が差すかもしれない。鉄不足やナシュケル鉱山の問題がどうしてあなたと関係があるのか、まったく見当もつかないが。~ [CHAPTER1]
 //@15837 no changes
-@2000002 = ~It is certain that the death of Mulahey will relieve the fears of the terrorized folk of Nashkel, but you remain uneasy. While the half-orc may indeed have caused the evils that befell the mine, the shortage of iron is too widespread to be his doing alone. His letters confirm your suspicions, and though they give little indication as to where his cohorts are hiding, they may have links to the bandits that currently plague the Coast Way.~ [CHAPTER2]
+@2000002 = ~ムラヘイの死は確かにナシュケルの恐怖に怯える人々の不安を和らげるだろうが、あなたは依然として不安を感じている。あのハーフオークが鉱山に降りかかった災厄を引き起こしたのは確かかもしれないが、鉄不足はあまりにも広範囲に及んでおり、彼一人の仕業ではないはずだ。彼の手紙はあなたの疑念を裏付けており、仲間がどこに潜んでいるかについてはほとんど手がかりを示していないものの、現在コースト・ウェイを苦しめている山賊たちと繋がりがあるかもしれない。~ [CHAPTER2]
 //@15838 no changes
-@2000003 = ~Mulahey and Tazok have proven to be nothing more than puppets; the true master of this unfolding mystery continues to elude you. One thing is certain: Someone has taken a very personal interest in seeking your death, though why, you are not sure. Your search for answers continues, and the foreboding Cloakwood forest is your next target.~ [CHAPTER3]
+@2000003 = ~ムラヘイとタゾクは単なる操り人形に過ぎなかったことが判明した。この展開していく謎の真の黒幕は、依然としてあなたの手から逃れ続けている。一つ確かなことがある。誰かがあなたの死を求めることに非常に個人的な関心を持っているということだ。しかし、なぜなのかはわからない。答えを求めるあなたの探索は続き、不吉なクロークウッドの森があなたの次の目標だ。~ [CHAPTER3]
 //@15839 no changes
-@2000004 = ~You have dealt a great blow to the organization known as the Iron Throne, a defeat that you are certain will not be ignored. Now you must travel to the great city of Baldur's Gate, where you are certain to find the truth behind the strange plot that plagues the citizens of the Sword Coast.~ [CHAPTER4]
+@2000004 = ~あなたはアイアンスロウンとして知られる組織に大打撃を与えた。この敗北は決して見過ごされることはないだろう。今、あなたは偉大な都市バルダーズ・ゲートへ向かわねばならない。そこで、ソードコーストの市民を苦しめている奇妙な陰謀の真実が見つかるはずだ。~ [CHAPTER4]
 //@15840 no changes
-@2000005 = ~Your journey has come full circle. Duke Eltan has asked that you travel back to Candlekeep, where you must spy upon the leaders of the Iron Throne. While it troubles you that such evil men now make use of the great library, and you wish the circumstances of your visit would be different, it will still be a pleasure to return to your former home.~ [CHAPTER5]
+@2000005 = ~あなたの旅は一巡した。エルタン公爵はあなたにキャンドルキープへ戻るよう要請した。そこでアイアンスロウンの指導者たちを監視しなければならない。そのような邪悪な者たちが今や偉大な図書館を利用していることは心を痛めるし、訪問の状況がもっと違ったものであればよかったと思うが、それでもかつての故郷に戻ることは喜ばしいだろう。~ [CHAPTER5]
 //@15841 no changes
-@2000006 = ~Life continues to be quite the challenge. You have been accused of murdering the Iron Throne leaders, and the Flaming Fist will undoubtedly hound your every step because of it. Despite all of this, you must return to the city of Baldur's Gate, the very lair of your accusers. You must find and expose the one who is responsible for your predicament; you must find Sarevok.~ [CHAPTER6]
+@2000006 = ~人生はまったく試練の連続だ。あなたはアイアンスロウンの指導者たちを殺害したと告発されており、そのためフレイミング・フィストが間違いなくあなたの一挙手一投足を追い続けるだろう。これら全てにもかかわらず、あなたはバルダーズ・ゲート、まさにあなたを告発する者たちの本拠地へ戻らねばならない。あなたの窮状の責任者を見つけ出し、暴露しなければならない。サレヴォクを見つけ出さねばならないのだ。~ [CHAPTER6]
 
 /////                                                  \\\\\
 ///// BG:SoD                                           \\\\\
 /////                                                  \\\\\
 
 //@70019 no changes
-@2000007 = ~Korlasz is defeated, and the last of Sarevok's influence died with her. Your foster father, Gorion, has been avenged. With the exception of your friend Imoen, those who helped you thwart your half-brother's schemes drift away from you, returning to their lives. For the first time since you left Candlekeep, you have the opportunity to reflect on the astonishing turns your life has taken.
+@2000007 = ~コーラスは倒され、サレヴォクの影響力の最後の痕跡も彼女とともに消えた。養父ゴライオンの仇は討たれた。友人イモエンを除き、あなたが異母兄弟の陰謀を阻止するのを助けてくれた者たちは、それぞれの生活に戻るためにあなたの元を去っていく。キャンドルキープを去って以来初めて、あなたは自分の人生が辿ってきた驚くべき転機を振り返る機会を得た。
 
-Though you are fêted by the rulers of Baldur's Gate, a sense of unease plagues you. You can't help but hear the rumors, the whispers that you share the same dark blood as Sarevok. Some hint you killed your half-brother not for the good of the city, but so you could usurp his place and his power. For the moment, however, your persecutors' voices are drowned out by an ever-growing number of others with more immediate concerns.
+バルダーズ・ゲートの支配者たちに祝福されているにもかかわらず、不安の感覚があなたを悩ませる。あなたはサレヴォクと同じ暗黒の血を共有しているという噂、ささやきを聞かずにはいられない。一部の者は、あなたが異母兄弟を殺したのは都市の利益のためではなく、彼の地位と力を奪うためだったと仄めかしている。しかし今のところ、あなたを非難する声は、より差し迫った懸念を持つ者たちの増え続ける声にかき消されている。
 
-Every day, more refugees driven from their homes by the servants of Caelar Argent arrive at the city gates. Many have stories of the Shining Lady's grace; all have tales of her followers' wrath.
+毎日、ケイラー・アージェントの手下たちによって家から追われた難民が都市の門に到着する。多くの者は「輝く淑女」の恩寵について語り、全ての者が彼女の信奉者たちの怒りについての物語を持っている。
 
-A tenday after Korlasz's defeat, you retire to your chamber in the Ducal Palace, your thoughts troubled. You wonder what effect Caelar's crusade will have on Baldur's Gate, little knowing how close at hand the answer is...~ [BD70019]
+コーラスの敗北から10日後、あなたは公爵宮殿の自室に引退し、思いは乱れている。ケイラーの聖戦がバルダーズ・ゲートにどのような影響を与えるのかと考えているが、その答えがいかに間近に迫っているかはほとんど知らない...~ [BD70019]
 //@56974 no changes
-@2000008 = ~Captain Schael Corwin and her aide, Corporal Bence Duncan, maintain order in the caravan from Baldur's Gate. Some who joined the expedition are unaccustomed to Flaming Fist discipline. Hard lessons are learned in the early days of the march north.
+@2000008 = ~シェイル・コーウィン隊長とその副官ベンス・ダンカン伍長は、バルダーズ・ゲートからの隊商の秩序を維持している。遠征に加わった者の中には、フレイミング・フィストの規律に慣れていない者もいる。北への行軍の初期には厳しい教訓が学ばれる。
 
-The journey is slowed by the crusade's victims. A multitude of broken, haunted men and women clog the Coast Way. When asked, they speak of fields set aflame, granaries ransacked, and family conscripted by the crusade. Yet many characterize these hardships as necessary sacrifices in pursuit of a greater good. A strange acceptance, even admiration, of Caelar Argent is disconcertingly common in those she has wronged. Some proclaim the Shining Lady a prophet, doing the work of not one but all faiths, all gods.
+旅は聖戦の犠牲者たちによって遅らされる。打ちひしがれ、憑かれたような大勢の男女がコースト・ウェイを塞いでいる。尋ねられると、彼らは炎に包まれた畑、略奪された穀倉、そして聖戦によって徴集された家族について語る。しかし多くの者は、これらの苦難をより大きな善を追求するために必要な犠牲だと特徴づける。ケイラー・アージェントに対する奇妙な受容、さらには賞賛さえもが、彼女が害を与えた者たちの間で不気味なほど一般的だ。一部の者は「輝く淑女」を預言者だと宣言し、一つの信仰ではなく全ての信仰、全ての神々の御業をなしていると言う。
 
-Is it possible Caelar Argent's cause is a righteous one? Or is she engaged in a great deception to further her own agenda, as Sarevok once did?~ [BD56974]
+ケイラー・アージェントの大義は正義のものである可能性はあるのだろうか？　それとも彼女は、かつてサレヴォクがそうしたように、自身の目的を推進するための大いなる欺瞞に従事しているのだろうか？~ [BD56974]
 //@56368 no changes
-@2000009 = ~With the Coast Way Crossing destroyed, the only safe route across the Winding Water is Boareskyr Bridge—where your father, Bhaal, was murdered by the mad god Cyric. Each step toward the distant landmark fills you with unease.
+@2000009 = ~コースト・ウェイ・クロッシングが破壊されたため、ワインディング・ウォーターを渡る唯一の安全なルートはボアスキル橋だけだ。そこはあなたの父バールが狂える神シアリックに殺された場所である。遠くにある目印へ向かう一歩一歩があなたを不安で満たす。
 
-You are not alone in that. The Flaming Fists also fear what may lie ahead. If Caelar has destroyed Boareskyr Bridge, the expedition will not reach Dragonspear Castle in time to stop the crusade. The forces of Baldur's Gate and its allies will be outmatched. Slaughtered.
+不安を感じているのはあなただけではない。フレイミング・フィストたちも、前方に何が待ち受けているかを恐れている。もしケイラーがボアスキル橋を破壊していたら、遠征隊は聖戦を止めるためにドラゴンスピア城へ間に合わないだろう。バルダーズ・ゲートとその同盟国の軍勢は力負けし、虐殺されるだろう。
 
-These fears grip your allies but also drive them forward. The anxious whispers fall silent when the march is called to a halt less than a day's travel from Boareskyr. The Flaming Fist sets up camp and prepares for the next meeting with the crusade, while you plan your next move.~ [BD56368]
+これらの恐怖はあなたの同盟者たちを掴むが、同時に彼らを前進させる。ボアスキルから1日足らずの距離で行軍が停止を命じられると、不安げなささやきは静まる。フレイミング・フィストは陣営を設営し、聖戦との次の遭遇に備え、一方であなたは次の一手を計画する。~ [BD56368]
 //@56371 no changes
-@2000010 = ~Signs of the crusade's recent presence can be seen on the road to Dragonspear Castle, but the Shining Lady's actual servants are rarely encountered. The few crusaders you spy in the distance invariably retreat at the first opportunity.
+@2000010 = ~ドラゴンスピア城への道には聖戦の最近の存在の兆候が見られるが、「輝く淑女」の実際の配下たちとはめったに遭遇しない。遠くに見かける少数の聖戦士たちは、最初の機会に必ず退却する。
 
-As the march wears on, fatigue grips your company. Tempers flare within the caravan. Your reputation as the hero of Baldur's Gate protects you from petty squabbles and angry outbursts... or perhaps, after what happened on Boareskyr Bridge, there is another reason few are willing to cross you.
+行軍が続くにつれ、疲労があなたの一行を掴む。隊商内で気性が荒立つ。バルダーズ・ゲートの英雄としてのあなたの評判が、些細な口論や怒りの爆発からあなたを守っている...あるいはおそらく、ボアスキル橋で起こったことの後では、あなたに逆らおうとする者がほとんどいない別の理由があるのかもしれない。
 
-These thoughts are put aside when you see the banners of Waterdeep, Daggerford, and the Flaming Fist at the edge of the coalition’s siege camp. Dragonspear Castle is near, and so is Caelar's day of reckoning.~ [BD56371]
+連合軍の包囲陣営の端にウォーターディープ、ダガーフォード、そしてフレイミング・フィストの旗を見ると、これらの考えは脇に置かれる。ドラゴンスピア城は近く、ケイラーの審判の日も近い。~ [BD56371]
 //@56373 no changes
-@2000011 = ~Steel and magic still clash in the distance, but you have thwarted Caelar's attack upon the siege camp. The time has come for the combined forces of Waterdeep, Daggerford, and Baldur’s Gate to take the battle to the Shining Lady.
+@2000011 = ~遠くでは依然として鋼鉄と魔法が衝突しているが、あなたは包囲陣営へのケイラーの攻撃を阻止した。ウォーターディープ、ダガーフォード、そしてバルダーズ・ゲートの連合軍が「輝く淑女」へ戦いを挑む時が来た。
 
-The walls surrounding Dragonspear's ruins teem with crusaders. Among them are Caelar’s most trusted lieutenants, men and women of unparalleled skill ready to sacrifice all for their leader. Defeating them and penetrating the castle will not be easy, but that is the task before you.~ [BD56373]
+ドラゴンスピアの廃墟を取り巻く壁は聖戦士たちで溢れている。その中にはケイラーの最も信頼される副官たち、指導者のために全てを犠牲にする覚悟のある比類なき技量を持つ男女がいる。彼らを倒し、城へ侵入することは容易ではないが、それがあなたの前にある任務だ。~ [BD56373]
 //@56375 no changes
-@2000012 = ~Avernus, the first pit of the Nine Hells, assaults your senses. The stench of brimstone and curdled milk fills your nostrils, coating your tongue and throat in a nausea-inducing film. The bitter moans of the damned envelop you, pressing in from all sides, smothering.
+@2000012 = ~九層地獄の第一層アヴェルヌスが、あなたの感覚を襲う。硫黄と凝乳の悪臭が鼻孔を満たし、吐き気を催す膜であなたの舌と喉を覆う。呪われた者たちの苦い呻き声があなたを包み込み、四方八方から押し寄せ、窒息させる。
 
-As your watering eyes grow accustomed to the dim lava light of the pit, you begin to feel the oppressive majesty of the blasted waste around you. In pursuing the Shining Lady, you have been brought to the darkest place imaginable, and the pursuit is not yet over. Crusader corpses litter the ground around you, but of Caelar herself, there is no sign.~ [BD56375]
+涙目が穴の薄暗い溶岩の光に慣れてくると、周囲の荒廃した荒野の圧倒的な威厳を感じ始める。「輝く淑女」を追って、あなたは想像し得る最も暗い場所へ連れて来られた。そして追跡はまだ終わっていない。聖戦士の死体があなたの周囲の地面に散乱しているが、ケイラー自身の姿は見当たらない。~ [BD56375]
 //@56378 no changes
-@2000013 = ~You return to Baldur's Gate under circumstances much darker than anyone would have believed. What should have been a moment of crowning triumph is instead a nightmare beyond your understanding.
+@2000013 = ~あなたは誰もが信じられないほど暗い状況下でバルダーズ・ゲートへ戻る。栄光の勝利の瞬間であるべきだったものは、代わりにあなたの理解を超えた悪夢となっている。
 
-Skie Silvershield lies dead, seemingly at your hand. The siege force's clerics are unable to revive her. Her magically preserved body has been transported to Grand Duke Entar Silvershield, who clings to the faint hope that his daughter might someday be resurrected. You share that hope; without Skie, you may never know the truth of what happened that dark night. 
+スキー・シルバーシールドは死んでいる。あなたの手によってと思われる。包囲軍の聖職者たちは彼女を蘇生させることができない。魔法で保存された彼女の遺体は大公エンタール・シルバーシールドの元へ運ばれた。彼は娘がいつの日か復活するかもしれないというかすかな希望にすがっている。あなたもその希望を共有している。スキーなしでは、あの暗い夜に何が起こったのか、真実を知ることは決してないかもしれない。
 
-Once, you thought yourself free of your father's taint. But as you journeyed to Dragonspear Castle, you realized this was not so. You are a child of Bhaal, Lord of Murder. A piece of him resides in you. Has it grown beyond your control? Was yours the hand that plunged the dagger into Skie Silvershield's breast? You do not know. And that fact haunts you.
+かつて、あなたは父の汚れから解放されたと思っていた。しかしドラゴンスピア城への旅の途中で、それが真実ではないことを悟った。あなたは殺戮の王バールの落とし子なのだ。彼の一部があなたの中に宿っている。それはあなたの制御を超えて成長したのだろうか？　スキー・シルバーシールドの胸に短剣を突き立てたのはあなたの手だったのか？　あなたは知らない。そしてその事実があなたを苦しめる。
 
-When you left Baldur's Gate, people cheered you as the city's hero. Now they look upon you and see something very different.~ [BD56378]
+バルダーズ・ゲートを去る時、人々はあなたを都市の英雄として称賛した。今、彼らはあなたを見て、まったく異なる何かを見ている。~ [BD56378]
 
 /////                                                  \\\\\
 ///// BG2:SoA                                          \\\\\
@@ -81,21 +81,21 @@ When you left Baldur's Gate, people cheered you as the city's hero. Now they loo
 //no textscreen for chapter 13: part 2 (start of SoA)
 
 //@48005 removed CHAPTER TWO
-@2000014 = ~The deal is made, and you have a goal, albeit a distant one. Your new "friend" has assured you that passage to Imoen can be bought... though you are certain the final tally will include much more than gold. Any help is welcome, however, and while the cost may be steep, your path is clear. Finding Imoen will lead to Irenicus... and to answers long overdue.~ [CHAPT02]
+@2000014 = ~取引は成立し、あなたには目標がある。遠い目標ではあるが。あなたの新しい「友人」は、イモエンへの道は買えると保証してくれた...とはいえ、最終的な支払いは金以上のものになることは確実だ。しかし、どんな助けも歓迎だ。代償は高くつくかもしれないが、あなたの道は明確だ。イモエンを見つければイレニカスへ辿り着く...そして長らく待たされている答えへも。~ [CHAPT02]
 //@61359 removed CHAPTER THREE
-@2000015 = ~Allies are expensive in the City of Coin, but you are certain you have made a wise investment. Through Gaelan Bayle, you have purchased the aid of Aran Linvail, Shadowmaster of Athkatla. As ominous as that may sound, you have little other choice. Already you have felt the influence of those working against your search for Irenicus.~ [CHAPT03A]
+@2000015 = ~硬貨の都では同盟者は高価だが、あなたは賢明な投資をしたと確信している。ゲイラン・ベールを通じて、あなたはアスカトラの影の支配者アラン・リンヴェイルの援助を購入した。不吉に聞こえるかもしれないが、他にほとんど選択肢はない。すでにイレニカスを探すあなたの捜索を妨害する者たちの影響を感じている。~ [CHAPT03A]
 //@61360 removed CHAPTER THREE
-@2000016 = ~Allies are expensive in the City of Coin, but you have invested carefully to best serve your interests. Despite her dark nature, Bodhi has promised much and seems eager to accommodate, though there will assuredly be a price beyond the coins you have given. She is useful for now, so long as she aids in your search for Irenicus.~ [CHAPT03B]
+@2000016 = ~硬貨の都では同盟者は高価だが、あなたは自分の利益に最も適うよう慎重に投資した。暗黒の本性にもかかわらず、ボーディは多くを約束し、協力することに熱心なようだ。とはいえ、あなたが渡した硬貨以上の代償が確実にあるだろう。彼女がイレニカスの捜索を助けてくれる限り、今のところ役に立つ。~ [CHAPT03B]
 //@8633 removed CHAPTER FOUR
-@2000017  = ~Aran Linvail has proven trustworthy. You are soon under sail with the flamboyant Saemon Havarian at the helm. The journey is uneventful, and if there were other ships on the same course, they must have kept a discreet distance. You make good time, and soon there is a sizable island on the horizon. It might have been considered a pleasant place, but a grim shadow extends the length of it. The asylum, Spellhold, looms from a cliffside.~ [CHAPT04A]
+@2000017  = ~アラン・リンヴェイルは信頼に足ることが証明された。あなたはすぐに、派手なサエモン・ハヴァリアンが舵を取る船で出帆する。航海は平穏で、もし同じ航路を進む他の船があったとしても、控えめな距離を保っていたに違いない。順調に進み、やがて水平線上にかなりの大きさの島が見えてくる。快適な場所と見なされたかもしれないが、不気味な影がその全長に渡って伸びている。精神病院スペルホールドが崖の上から迫っている。~ [CHAPT04A]
 //@55714 removed CHAPTER FOUR
-@2000018 = ~Bodhi was as good as her word, and you are quickly under sail, the flamboyant Saemon Havarian at the helm. The journey is uneventful, and if there were other ships on the same course, they must have kept a discreet distance. You make good time, and soon there is a sizable island on the horizon. It might have been considered a pleasant place, but a grim shadow extends the length of it. The asylum, Spellhold, looms from a cliffside.~ [CHAPT04B]
+@2000018 = ~ボーディは約束通りだった。あなたはすぐに、派手なサエモン・ハヴァリアンが舵を取る船で出帆する。航海は平穏で、もし同じ航路を進む他の船があったとしても、控えめな距離を保っていたに違いない。順調に進み、やがて水平線上にかなりの大きさの島が見えてくる。快適な場所と見なされたかもしれないが、不気味な影がその全長に渡って伸びている。精神病院スペルホールドが崖の上から迫っている。~ [CHAPT04B]
 //@61361 removed CHAPTER FIVE
-@2000019 = ~The great depths of the Underdark stretch before you, and as you adjust to the dim light, the reality of where you are begins to sink in. It is a realm of countless legends, where evil lurks behind each shadow, and though you have traveled far in pursuit of Irenicus, never have you felt so isolated. As black as your situation may have seemed, it somehow grows darker still.~ [CHAPT05]
+@2000019 = ~アンダーダークの大いなる深淵があなたの前に広がり、薄暗い光に目が慣れてくると、自分がどこにいるのかという現実が身に染みてくる。それは無数の伝説の領域であり、悪がすべての影の背後に潜んでいる場所だ。イレニカスを追って遠くまで旅してきたが、これほど孤立していると感じたことはない。あなたの状況がどれほど暗黒に思えたとしても、それはさらに暗さを増していく。~ [CHAPT05]
 //@1389 removed CHAPTER SIX
-@2000020  = ~As much as you have traveled, these last few feet to the surface have seemed the longest trek by far. Your relief at seeing the light of the sky is palpable, even though you were not really fleeing the black of the Underdark, rather the constant treachery. Unfortunately, even though the setting has changed, your immediate future still looks to be far from peaceful. This area has been the staging ground for many recent battles, and judging from the faces of the beleaguered elven soldiers that now approach, there may be more to come.~ [CHAPT06]
+@2000020  = ~どれほど遠くまで旅してきたとしても、地上へ至る最後の数フィートは、これまでで最も長い道のりに思えた。空の光を見た時の安堵は明白だ。あなたが本当に逃れていたのはアンダーダークの暗黒ではなく、絶え間ない裏切りだったのだが。残念ながら、環境が変わったとしても、あなたの直近の未来は平穏にはほど遠いようだ。この地域は最近多くの戦いの舞台となっており、今近づいてくる疲弊したエルフの兵士たちの顔から判断すると、さらに戦いが待っているかもしれない。~ [CHAPT06]
 //@61362 removed CHAPTER SEVEN
-@2000021 = ~Guided by the light of the Rhynn Lanthorn, you pass effortlessly through what had seemed an impenetrable wall of trees. The city that greets you as you emerge is at once inspiring, but also profoundly troubling, for amidst the majestic architecture are dozens of bodies, elves that have fallen while defending their home. Suldanessellar is in the grip of Irenicus and his minions, and it will not be relinquished without a fight.~ [CHAPT07]
+@2000021 = ~リン・ランソーンの光に導かれ、あなたは突破不可能に見えた木々の壁を難なく通り抜ける。現れた時にあなたを迎える都市は感動的であると同時に、深く心を乱すものでもある。荘厳な建築の中に、故郷を守りながら倒れた何十人ものエルフの遺体があるからだ。サルダネッセラーはイレニカスとその手下たちに掌握されており、戦いなしに手放されることはないだろう。~ [CHAPT07]
 
 /////                                                  \\\\\
 ///// BG2:ToB                                          \\\\\
@@ -104,9 +104,9 @@ When you left Baldur's Gate, people cheered you as the city's hero. Now they loo
 //no textscreen for chapter 20 (start of ToB)
 
 //@71591 removed CHAPTER NINE
-@2000022 = ~Dust blows around you, clearing a moment later to reveal what can only be Amkethran. A village nestled into an outcropping of rock amidst a desert so dry and sparse of life that you wonder how such a place could survive. Dominating the village and seemingly carved out of the stone face of the rocks themselves is a large and ornate fortress, its purpose unknown.~ [25NARR02]
+@2000022 = ~砂塵があなたの周りを吹き抜け、しばらくして晴れると、アムケスランとしか思えない場所が姿を現す。あまりにも乾燥し、生命がまばらな砂漠の中、岩の露頭部に寄り添うように佇む村。このような場所がどうして存続できるのか不思議に思う。村を圧倒し、岩の石面から彫り出されたかのように見えるのは、巨大で装飾的な要塞であり、その目的は不明だ。~ [25NARR02]
 //@71592 removed CHAPTER TEN
-@2000023 = ~As you step into the Abyssal plane, the first thing that strikes you is how suddenly alien it feels. A chill wind sweeps across an empty void, screaming in your ears that you are not welcome here. Several strange, towering structures are present, suspended in the void by an unknown power. All your immortal senses tell you, however, that the powerful essence of your dead father is close and that this place is indeed the Throne of Bhaal.~ [25NARR03]
+@2000023 = ~奈落の次元界に足を踏み入れた時、最初にあなたを打つのは、それが突如としていかに異質に感じられるかということだ。冷たい風が空虚な虚空を吹き抜け、あなたはここでは歓迎されていないと耳に響く。いくつかの奇妙でそびえ立つ構造物が存在し、未知の力によって虚空に浮かんでいる。しかし、あなたの不死の感覚すべてが告げている。死せる父の強力な本質が近くにあり、この場所こそがバールの玉座なのだと。~ [25NARR03]
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -123,35 +123,35 @@ When you left Baldur's Gate, people cheered you as the city's hero. Now they loo
 //for consistency sake with BG2, chapter journal entries in BG1, that normally use textscreen strings, have been converted from narrator perspective to CHARNAME perspective. Simply change the narrative point of view from the narrator to CHARNAME character. Also remove sound assignment and add Chapter title. Read the English string as there may be places with changes to the text when original one wouldn't make sense when presented from CHARNAME point of view.
 
 //@16190 Chapter 1
-@2000024 = ~Chapter 1
+@2000024 = ~第1章
 
-I've awaken with the realization that I have not been living some horrible dream. Ambushed, I saw Gorion cut down before my eyes, and even his powerful magic could not stop the onslaught. It was his wish that I flee, but that does not remove the feeling of helplessness that now overwhelms me.
+私は目覚め、これが恐ろしい悪夢ではなく現実だったのだと悟った。襲撃を受け、私はゴライオンが目の前で斬り倒されるのを目撃した。彼の強力な魔法をもってしても、その猛攻を止めることはできなかった。彼は私に逃げるよう望んだが、それでも今私を圧倒している無力感を拭い去ることはできない。
 
-"Hand over your ward," the armored fiend had said. He was after me and me alone, but why? If only Gorion had given some clue, but now I am alone and lost. Candlekeep is near, but I will find no quarter there. The readers pay for their serenity with rather draconian entry rules, and without Gorion's influence, their doors will remain closed.~
+「その被後見人を引き渡せ」と、鎧を着た悪魔のような者は言った。彼は私だけを狙っていたのだ。だが、なぜ？　ゴライオンが何か手がかりを残してくれていればよかったのだが、今や私は独りぼっちで途方に暮れている。キャンドルキープは近くにあるが、そこで私が受け入れられることはないだろう。読書家たちは静謐な環境の代償として極めて厳格な入館規則を設けており、ゴライオンの影響力なしには、彼らの扉は閉ざされたままだろう。~
 //@15836 Chapter 2
-@2000025 = ~Chapter 2
+@2000025 = ~第2章
 
-With my hurried flight from Candlekeep barely behind me, the troubles facing the Sword Coast seem an unfamiliar blur to my fractured nerves. Gorion would not have me sit idle, however, and perhaps investigating local concerns will shed some light on my own predicament. How the iron shortage or the trouble in the Nashkel mines could possibly be linked to me, I have no idea.~
+キャンドルキープからの慌ただしい逃亡をようやく終えたばかりの私にとって、ソードコーストが直面している問題は、傷ついた神経には見慣れないぼやけた光景に映る。しかし、ゴライオンは私に何もせずにいることを望まなかっただろう。おそらく、地元の問題を調査すれば、私自身の窮状に光が差すかもしれない。鉄不足やナシュケル鉱山の問題がどうして私と関係があるのか、まったく見当もつかないが。~
 //@15837 Chapter 3
-@2000026 = ~Chapter 3
+@2000026 = ~第3章
 
-It is certain that the death of Mulahey will relieve the fears of the terrorized folk of Nashkel, but I remain uneasy. While the half-orc may indeed have caused the evils that befell the mine, the shortage of iron is too widespread to be his doing alone. His letters confirm my suspicions, and though they give little indication as to where his cohorts are hiding, they may have links to the bandits that currently plague the Coast Way.~
+ムラヘイの死は確かにナシュケルの恐怖に怯える人々の不安を和らげるだろうが、私は依然として不安を感じている。あのハーフオークが鉱山に降りかかった災厄を引き起こしたのは確かかもしれないが、鉄不足はあまりにも広範囲に及んでおり、彼一人の仕業ではないはずだ。彼の手紙は私の疑念を裏付けており、仲間がどこに潜んでいるかについてはほとんど手がかりを示していないものの、現在コースト・ウェイを苦しめている山賊たちと繋がりがあるかもしれない。~
 //@15838 Chapter 4
-@2000027 = ~Chapter 4
+@2000027 = ~第4章
 
-Mulahey and Tazok have proven to be nothing more than puppets; the true master of this unfolding mystery continues to elude me. One thing is certain: Someone has taken a very personal interest in seeking my death, though why, I am not sure. My search for answers continues, and the foreboding Cloakwood forest is my next target.~
+ムラヘイとタゾクは単なる操り人形に過ぎなかったことが判明した。この展開していく謎の真の黒幕は、依然として私の手から逃れ続けている。一つ確かなことがある。誰かが私の死を求めることに非常に個人的な関心を持っているということだ。しかし、なぜなのかはわからない。答えを求める私の探索は続き、不吉なクロークウッドの森が私の次の目標だ。~
 //@15839 Chapter 5
-@2000028 = ~Chapter 5
+@2000028 = ~第5章
 
-I have dealt a great blow to the organization known as the Iron Throne, a defeat that I am certain will not be ignored. Now I must travel to the great city of Baldur's Gate, where I am certain to find the truth behind the strange plot that plagues the citizens of the Sword Coast.~
+私はアイアンスロウンとして知られる組織に大打撃を与えた。この敗北は決して見過ごされることはないだろう。今、私は偉大な都市バルダーズ・ゲートへ向かわねばならない。そこで、ソードコーストの市民を苦しめている奇妙な陰謀の真実が見つかるはずだ。~
 //@15840 Chapter 6
-@2000029 = ~Chapter 6
+@2000029 = ~第6章
 
-My journey has come full circle. Duke Eltan has asked that I travel back to Candlekeep, where I must spy upon the leaders of the Iron Throne. While it troubles me that such evil men now make use of the great library, and I wish the circumstances of my visit would be different, it will still be a pleasure to return to my former home.~
+私の旅は一巡した。エルタン公爵は私にキャンドルキープへ戻るよう要請した。そこでアイアンスロウンの指導者たちを監視しなければならない。そのような邪悪な者たちが今や偉大な図書館を利用していることは心を痛めるし、訪問の状況がもっと違ったものであればよかったと思うが、それでもかつての故郷に戻ることは喜ばしいだろう。~
 //@15841 Chapter 7
-@2000030 = ~Chapter 7
+@2000030 = ~第7章
 
-Life continues to be quite the challenge. I have been accused of murdering the Iron Throne leaders, and the Flaming Fist will undoubtedly hound my every step because of it. Despite all of this, I must return to the city of Baldur's Gate, the very lair of my accusers. I must find and expose the one who is responsible for my predicament; I must find Sarevok.~
+人生はまったく試練の連続だ。私はアイアンスロウンの指導者たちを殺害したと告発されており、そのためフレイミング・フィストが間違いなく私の一挙手一投足を追い続けるだろう。これら全てにもかかわらず、私はバルダーズ・ゲート、まさに私を告発する者たちの本拠地へ戻らねばならない。私の窮状の責任者を見つけ出し、暴露しなければならない。サレヴォクを見つけ出さねばならないのだ。~
 
 /////                                                  \\\\\
 ///// BG:SoD                                           \\\\\
@@ -160,161 +160,161 @@ Life continues to be quite the challenge. I have been accused of murdering the I
 //In SoD INFO chapter journal entries weren't present at all. See BG1 section comments.
 
 //@56974 Chapter 8
-@2000032 = ~Chapter 8
+@2000032 = ~第8章
 
-Captain Schael Corwin and her aide, Corporal Bence Duncan, maintain order in the caravan from Baldur's Gate. Some who joined the expedition are unaccustomed to Flaming Fist discipline. Hard lessons are learned in the early days of the march north.
+シェイル・コーウィン隊長と彼女の副官ベンス・ダンカン伍長が、バルダーズ・ゲートからの隊商の秩序を維持している。遠征に加わった者の中には、フレイミング・フィストの規律に慣れていない者もいる。北への行軍の初期には厳しい教訓が学ばれる。
 
-The journey is slowed by the crusade's victims. A multitude of broken, haunted men and women clog the Coast Way. When asked, they speak of fields set aflame, granaries ransacked, and family conscripted by the crusade. Yet many characterize these hardships as necessary sacrifices in pursuit of a greater good. A strange acceptance, even admiration, of Caelar Argent is disconcertingly common in those she has wronged. Some proclaim the Shining Lady a prophet, doing the work of not one but all faiths, all gods.
+旅は聖戦の犠牲者たちによって遅らされる。打ちひしがれ、憑かれたような大勢の男女がコースト・ウェイを塞いでいる。尋ねられると、彼らは炎に包まれた畑、略奪された穀倉、そして聖戦によって徴集された家族について語る。しかし多くの者は、これらの苦難をより大きな善を追求するために必要な犠牲だと特徴づける。ケイラー・アージェントに対する奇妙な受容、さらには賞賛さえもが、彼女が害を与えた者たちの間で不気味なほど一般的だ。一部の者は「輝く淑女」を預言者だと宣言し、一つの信仰ではなく全ての信仰、全ての神々の御業をなしていると言う。
 
-Is it possible Caelar Argent's cause is a righteous one? Or is she engaged in a great deception to further her own agenda, as Sarevok once did?~
+ケイラー・アージェントの大義は正義のものである可能性はあるのだろうか？　それとも彼女は、かつてサレヴォクがそうしたように、自身の目的を推進するための大いなる欺瞞に従事しているのだろうか？~
 //@56368 Chapter 9
-@2000033 = ~Chapter 9
+@2000033 = ~第9章
 
-With the Coast Way Crossing destroyed, the only safe route across the Winding Water is Boareskyr Bridge—where my father, Bhaal, was murdered by the mad god Cyric. Each step toward the distant landmark fills me with unease.
+コースト・ウェイ・クロッシングが破壊されたため、ワインディング・ウォーターを渡る唯一の安全なルートはボアスキル橋だけだ。そこは私の父バールが狂える神シアリックに殺された場所である。遠くにある目印へ向かう一歩一歩が私を不安で満たす。
 
-I am not alone in that. The Flaming Fists also fear what may lie ahead. If Caelar has destroyed Boareskyr Bridge, the expedition will not reach Dragonspear Castle in time to stop the crusade. The forces of Baldur's Gate and its allies will be outmatched. Slaughtered.
+不安を感じているのは私だけではない。フレイミング・フィストたちも、前方に何が待ち受けているかを恐れている。もしケイラーがボアスキル橋を破壊していたら、遠征隊は聖戦を止めるためにドラゴンスピア城へ間に合わないだろう。バルダーズ・ゲートとその同盟国の軍勢は力負けし、虐殺されるだろう。
 
-These fears grip my allies but also drive them forward. The anxious whispers fall silent when the march is called to a halt less than a day's travel from Boareskyr. The Flaming Fist sets up camp and prepares for the next meeting with the crusade, while I plan my next move.~
+これらの恐怖は私の同盟者たちを掴むが、同時に彼らを前進させる。ボアスキルから1日足らずの距離で行軍が停止を命じられると、不安げなささやきは静まる。フレイミング・フィストは陣営を設営し、聖戦との次の遭遇に備え、一方で私は次の一手を計画する。~
 //@56371 Chapter 10
-@2000034 = ~Chapter 10
+@2000034 = ~第10章
 
-Signs of the crusade's recent presence can be seen on the road to Dragonspear Castle, but the Shining Lady's actual servants are rarely encountered. The few crusaders I spy in the distance invariably retreat at the first opportunity.
+ドラゴンスピア城への道には聖戦の最近の存在の兆候が見られるが、「輝く淑女」の実際の配下たちとはめったに遭遇しない。遠くに見かける少数の聖戦士たちは、最初の機会に必ず退却する。
 
-As the march wears on, fatigue grips my company. Tempers flare within the caravan. My reputation as the hero of Baldur's Gate protects me from petty squabbles and angry outbursts... or perhaps, after what happened on Boareskyr Bridge, there is another reason few are willing to cross me.
+行軍が続くにつれ、疲労が私の一行を掴む。隊商内で気性が荒立つ。バルダーズ・ゲートの英雄としての私の評判が、些細な口論や怒りの爆発から私を守っている...あるいはおそらく、ボアスキル橋で起こったことの後では、私に逆らおうとする者がほとんどいない別の理由があるのかもしれない。
 
-Dragonspear Castle is near, and so is Caelar's day of reckoning.~
+ドラゴンスピア城は近く、そしてケイラーの審判の日も近い。~
 //@56373 Chapter 11
-@2000035 = ~Chapter 11
+@2000035 = ~第11章
 
-Steel and magic still clash in the distance, but I have thwarted Caelar's attack upon the siege camp. The time has come for the combined forces of Waterdeep, Daggerford, and Baldur’s Gate to take the battle to the Shining Lady.
+遠くでは依然として鋼鉄と魔法が衝突しているが、私は包囲陣営へのケイラーの攻撃を阻止した。ウォーターディープ、ダガーフォード、そしてバルダーズ・ゲートの連合軍が「輝く淑女」へ戦いを挑む時が来た。
 
-The walls surrounding Dragonspear's ruins teem with crusaders. Among them are Caelar’s most trusted lieutenants, men and women of unparalleled skill ready to sacrifice all for their leader. Defeating them and penetrating the castle will not be easy, but that is the task before me.~
+ドラゴンスピアの遺跡を囲む城壁には聖戦士たちが群がっている。その中にはケイラーの最も信頼する副官たち、指導者のために全てを犠牲にする覚悟のある比類なき技能を持つ男女がいる。彼らを倒し、城に侵入するのは容易ではないが、それが私の前にある課題だ。~
 //@56375 Chapter 12
-@2000036 = ~Chapter 12
+@2000036 = ~第12章
 
-Avernus, the first pit of the Nine Hells, assaults my senses. The stench of brimstone and curdled milk fills my nostrils, coating my tongue and throat in a nausea-inducing film. The bitter moans of the damned envelop me, pressing in from all sides, smothering.
+九層地獄の第一層アヴェルヌスが、私の感覚を襲う。硫黄と凝乳の悪臭が鼻孔を満たし、吐き気を催す膜で私の舌と喉を覆う。呪われた者たちの苦い呻き声が私を包み込み、四方八方から押し寄せ、窒息させる。
 
-As my watering eyes grow accustomed to the dim lava light of the pit, I begun to feel the oppressive majesty of the blasted waste around me. In pursuing the Shining Lady, I have been brought to the darkest place imaginable, and the pursuit is not yet over. Crusader corpses litter the ground around me, but of Caelar herself, there is no sign.~
+涙目が地獄の薄暗い溶岩の光に慣れてくると、私は周囲の荒涼とした荒野の圧倒的な威厳を感じ始める。「輝く淑女」を追って、私は想像できる限り最も暗い場所に連れてこられた。そして追跡はまだ終わっていない。聖戦士の死体が私の周りの地面に散乱しているが、ケイラー自身の姿はない。~
 //@56378 Chapter 13: Part 1
-@2000037 = ~Chapter 13: Part 1
+@2000037 = ~第13章：第一部
 
-I've returned to Baldur's Gate under circumstances much darker than anyone would have believed. What should have been a moment of crowning triumph is instead a nightmare beyond my understanding.
+私は誰も信じられないほど暗い状況下でバルダーズ・ゲートに戻ってきた。最高の勝利の瞬間であるべきだったものが、代わりに私の理解を超えた悪夢となっている。
 
-Skie Silvershield lies dead, seemingly at my hand. The siege force's clerics are unable to revive her. Her magically preserved body has been transported to Grand Duke Entar Silvershield, who clings to the faint hope that his daughter might someday be resurrected. I share that hope; without Skie, I may never know the truth of what happened that dark night. 
+スキー・シルバーシールドが死んでおり、どうやら私の手によるものらしい。包囲軍の聖職者たちは彼女を蘇生できない。彼女の魔法で保存された遺体は大公エンタール・シルバーシールドのもとに運ばれた。彼は娘がいつか復活するかもしれないというかすかな希望にすがっている。私もその希望を共有している。スキーなしでは、あの暗い夜に何が起こったのかの真実を知ることができないかもしれない。
 
-Once, I thought myself free of my father's taint. But as I journeyed to Dragonspear Castle, I realized this was not so. I am a child of Bhaal, Lord of Murder. A piece of him resides in me. Has it grown beyond my control? Was it my hand that plunged the dagger into Skie Silvershield's breast? I do not know. And that fact haunts me.
+かつて、私は父の汚れから解放されたと思っていた。しかしドラゴンスピア城への旅の途中で、それが真実ではないことを悟った。私は殺戮の王バールの落とし子なのだ。彼の一部が私の中に宿っている。それは私の制御を超えて成長したのだろうか？　スキー・シルバーシールドの胸に短剣を突き立てたのは私の手だったのか？　私は知らない。そしてその事実が私を苦しめる。
 
-When I left Baldur's Gate, people cheered me as the city's hero. Now they look upon me and see something very different.~
+バルダーズ・ゲートを離れた時、人々は私を都市の英雄として歓呼した。今、彼らは私を見て、まったく異なる何かを見ている。~
 
 /////                                                  \\\\\
 ///// BG2:SoA                                          \\\\\
 /////                                                  \\\\\
 
 //@34089 Chapter 1 -> Chapter 13: Part 2
-@2000038 = ~Chapter 13: Part 2
+@2000038 = ~第13章：第二部
 
-My old friend Imoen has rescued me from imprisonment. I don't remember how I was brought here, and neither do I know who would wish us locked up. My mind aches, and my memory is a haze... what has happened? Where am I?~
+旧友イモエンが私を投獄から救出してくれた。私はどうやってここに連れてこられたのか覚えていないし、誰が私たちを閉じ込めたいと思ったのかも知らない。私の心は痛み、記憶は霞んでいる...何が起こったのか？　ここはどこなのか？~
 //@23458 Chapter 2 -> Chapter 14
-@2000039 = ~Chapter 14
+@2000039 = ~第14章
 
-I escaped from the mad maze that was Irenicus's dungeon only to encounter the wizard himself in a battle with assassins in black leather. Perhaps that was why I was able to escape as easily as I did... I do not know. The assassins seemed to be blaming the mage for something, to which Irenicus responded with anger and powerful magic. Indeed, part of the structure that surrounded him had collapsed from the might of his spells.
+私はイレニカスの狂った迷宮から脱出したが、ウィザード自身が黒革を着た暗殺者たちと戦っているところに遭遇した。おそらくそれが私が簡単に脱出できた理由だろう...わからないが。暗殺者たちはメイジを何かで責めているようで、イレニカスは怒りと強力な魔法で応答した。実際、彼を囲んでいた建物の一部が彼の呪文の力で崩壊していた。
 
-As the battle ended, however, Imoen attacked Irenicus herself... and when strange wizards appeared to put an end to the magical conflict, they took both Imoen and Irenicus away.
+しかし戦いが終わったとき、イモエン自身がイレニカスを攻撃した...そして奇妙なウィザードたちが現れて魔法の戦いを終わらせようとしたとき、彼らはイモエンとイレニカスの両方を連れ去った。
 
-I am left in the city of Athkatla in Amn with few allies and enemies that I know nothing about. Imoen is missing... and the only place I can go to achieve answers is likely the same place she has been taken.
+私はアムンのアスカトラの街に、ほとんど味方もなく、何も知らない敵と共に残された。イモエンが行方不明だ...そして答えを得るために行ける唯一の場所は、おそらく彼女が連れて行かれたのと同じ場所だろう。
 
-I have encountered a man named Gaelan Bayle, who mysteriously seems to know who I am and sought me out. He has an offer of aid from an equally mysterious source. And one which comes with a very high price indeed...~
+私はゲイラン・ベイルという男に出会った。彼は不思議なことに私が誰であるかを知っているようで、私を探し出した。彼は同じく神秘的な情報源からの援助の申し出を持っている。そしてそれは確かに非常に高い代価を伴うものだ...~
 //@8730 Chapter 3 -> Chapter 15
-@2000040  = ~Chapter 15
+@2000040  = ~第15章
 
-Throughout my time in Athkatla and my adventures in and around the city, I have seen hints of some great struggle between the Shadow Thieves and some other source... a guild filled with vampires and perhaps even greater evils.
+アスカトラでの私の時間と、街とその周辺での冒険を通じて、私はシャドウ・シーフと何か別の勢力との間の大きな抗争の兆候を見てきた...ヴァンパイアで満たされたギルド、そしておそらくそれ以上の大きな悪との。
 
-The enemies of the Shadow Thieves are now my enemy, of that I am sure. Gaelan has sent me with a key to meet the Shadowmaster of the Shadow Thieves, he who controls the entirety of this powerful organization: Aran Linvail. This is by far preferable to receiving "help" from vampires... although I somehow doubt that the gold I gave Gaelan is the last of the final price I will have to pay for help from the Shadow Thieves.~
+シャドウ・シーフの敵は今や私の敵だ、それは確かだ。ゲイランは私に鍵を持たせて、シャドウ・シーフのシャドウマスター、この強力な組織の全体を支配する者、アラン・リンヴェイルに会いに行かせた。これはヴァンパイアから「助け」を受けるよりはるかに好ましい...とはいえ、私がゲイランに渡した金が、シャドウ・シーフの助けに対して支払わなければならない最終的な代価の最後ではないことを、どういうわけか疑っている。~
 //@23351 Chapter 3 -> Chapter 15
-@2000041 = ~Chapter 15
+@2000041 = ~第15章
 
-Throughout my time in Athkatla and my adventures in and around the city, I have seen hints of some great struggle between the Shadow Thieves and some other source. This other source approached me in the form of Bodhi... a woman of great power and evil rivaling her ambition. She revealed the nature of my benefactors under Gaelan Bayle to be none other than the Shadow Thieves themselves and offered to give me the same help that they did... but at a far lesser price.
+アスカトラでの私の時間と、街とその周辺での冒険を通じて、私はシャドウ・シーフと何か別の勢力との間の大きな抗争の兆候を見てきた。この別の勢力は、ボーディという形で私に接近してきた...彼女の野心に匹敵する大きな力と邪悪を持つ女だ。彼女はゲイラン・ベイルの下にいる私の援助者たちの本性が他ならぬシャドウ・シーフ自身であることを明らかにし、彼らと同じ助けを提供すると申し出た...しかしはるかに安い代価で。
 
-I have accepted Bodhi's offer, and she has taken me into her confidence for now. The true nature of her motivations has yet to be revealed, but it obvious that Bodhi is on the winning side of this citywide conflict. As to the gold I have given her for her aid... I have the feeling that it is just the beginning of the final price I will eventually have to pay. But I will have my answers... I will find Imoen and Irenicus both.~
+私はボーディの申し出を受け入れ、彼女は今のところ私を信頼に入れてくれた。彼女の動機の真の本性はまだ明らかにされていないが、ボーディがこの都市規模の抗争において勝利する側にいることは明らかだ。彼女の援助のために私が渡した金については...それは私が最終的に支払わなければならない最終的な代価の始まりに過ぎないという感じがする。しかし私は答えを得るだろう...私はイモエンとイレニカスの両方を見つけるだろう。~
 //@20632 Chapter 4 -> Chapter 16
-@2000042 = ~Chapter 16
+@2000042 = ~第16章
 
-I have completed the tasks that Aran Linvail set out for me, including destroying the rival guild that Bodhi had set up and forcing the vampire herself to flight, and now the Shadowmaster has enlightened me about several things.
+私はアラン・リンヴェイルが設定したタスクを完了した。ボーディが設立した対抗ギルドを破壊し、ヴァンパイア自身を逃走させた。そして今、シャドウマスターは私にいくつかのことを明らかにしてくれた。
 
-The Shadow Thieves were the ones who attacked Irenicus in the dungeon that I awoke in. They had heard about my kidnapping, but not thought much of it... but then Bodhi's guild appeared, and many of the Shadow Thieves began to disappear. They managed to track down Irenicus's dungeon and link it to Bodhi... and I was witness to their subsequent disastrous assault.
+シャドウ・シーフは、私が目覚めたダンジョンでイレニカスを攻撃した者たちだった。彼らは私の誘拐について聞いていたが、あまり気にしていなかった...しかしボーディのギルドが現れ、多くのシャドウ・シーフが姿を消し始めた。彼らはイレニカスのダンジョンを追跡し、それをボーディと結びつけた...そして私は彼らのその後の悲惨な襲撃の目撃者だった。
 
-Aran feels partly responsible for Imoen's kidnapping and told me that she and Irenicus were taken to the same place: an island asylum for mages called Spellhold. The gold I supplied was used to book passage to the isle, and it is there that I will find the answers I seek. Aran warns me, though, that the asylum is a veritable fortress meant to contain insane wizards and other "deviants"... and even gaining entry will be a feat unto itself. Regardless, passage with a privateer named Saemon Havarian has been booked, and I am on my way...~
+アランはイモエンの誘拐について部分的に責任を感じており、彼女とイレニカスが同じ場所に連れて行かれたと私に告げた。スペルホールドと呼ばれるメイジのための孤島の収容所だ。私が提供した金は島への航路を予約するために使われ、私はそこで求める答えを見つけるだろう。しかしアランは私に警告する。収容所は狂気のウィザードや他の「逸脱者」を封じ込めるための真の要塞であり...侵入するだけでもそれ自体が偉業だと。それでも、サエモン・ハヴァリアンという私掠船長との航路は予約され、私は出発する...~
 //@20633 Chapter 4 -> Chapter 16
-@2000043 = ~Chapter 16
+@2000043 = ~第16章
 
-Now that I have completed the tasks that Bodhi set out for me, which included the disruption of the Shadow Thieves and the assassination of the Shadowmaster, Aran Linvail himself, she has made several things quite a bit clearer.
+ボーディが私のために設定したタスクを完了した今、それにはシャドウ・シーフの混乱とシャドウマスター、アラン・リンヴェイル自身の暗殺が含まれていたが、彼女はいくつかのことをかなり明確にしてくれた。
 
-Irenicus, the mage who kidnapped me, is Bodhi's brother. She says she did not support his abduction of me, which was apparently done because I am a child of Bhaal. What Imoen and I perceived as torture was actually the mage trying to discover and activate "my true potential"... whether I wished it or not.
+私を誘拐したメイジ、イレニカスは、ボーディの兄弟だ。彼女は彼による私の拉致を支持していなかったと言う。それは明らかに私がバールの落とし子だからなされたことだった。イモエンと私が拷問として認識していたものは、実際にはメイジが私の「真の可能性」を発見し、活性化しようとしていたのだ...私が望むと望まざるとにかかわらず。
 
-Bodhi wants to find her brother and gain access to the knowledge that he possesses, and for my aid, she will turn over whatever information he has about me. She will accompany me beyond this point, as Irenicus and Imoen are held at the same place: a fortress asylum called Spellhold on a remote island far from Amn. The gold I gave her has been used to book passage with a privateer named Saemon Havarian. Once I am at the island, I will need to find a way into the asylum... although I do not know how Bodhi will participate herself. Soon, I will have the answers I seek...~
+ボーディは兄弟を見つけ、彼が持つ知識にアクセスしたいと考えており、私の援助に対して、彼が私について持っているあらゆる情報を引き渡すと言っている。彼女はこの先、私に同行するつもりだ。イレニカスとイモエンは同じ場所に拘束されているからだ。アムンから遠く離れた孤島にあるスペルホールドと呼ばれる要塞収容所だ。私が彼女に渡した金は、サエモン・ハヴァリアンという私掠船長との航路を予約するために使われた。島に着いたら、収容所への侵入方法を見つける必要がある...とはいえ、ボーディ自身がどのように参加するのかはわからない。まもなく、私は求める答えを手に入れるだろう...~
 //@10944 Chapter 5 -> Chapter 17
-@2000044 = ~Chapter 17
+@2000044 = ~第17章
 
-Irenicus's plan was nothing more than to draw me into the asylum so that I could come under his power once again. He revealed to me that Imoen, of all people, was none other than a child of Bhaal herself... obviously the reason Gorion had taken her in along with myself. Irenicus had stolen away Imoen's divine soul already... and after performing a ritual, he did the same to me. All part of some plan of ultimate vengeance that he did not speak more on.
+イレニカスの計画は、私を収容所に引き込んで再び彼の力の下に置くことに他ならなかった。彼は私に、よりによってイモエンがバールの落とし子の一人に他ならないことを明かした...明らかにゴライオンが私と一緒に彼女を引き取った理由だ。イレニカスはすでにイモエンの神聖な魂を奪い去っていた...そして儀式を行った後、彼は私にも同じことをした。彼がそれ以上語らなかった究極の復讐の計画の一部だ。
 
-I was to be disposed of by Bodhi, who allowed me a bit of a chase through the asylum dungeon, and I only survived by finding myself turned into Bhaal's avatar: the Slayer. With my soul gone, I cannot control the taint within me any longer.
+私はボーディによって始末されることになっていたが、彼女は私に収容所のダンジョンを通る少しの追跡を許し、私はバールの化身、スレイヤーに変身することで生き延びた。魂が失われた今、私はもはや自分の中の汚れを制御できない。
 
-Getting out of the dungeon led me to freeing the asylum's inmates... and together with them, we were able to force Irenicus to retreat. It is a victory, but a hollow one... the mage is not defeated, still. And both Imoen and I are still without our souls...~
+ダンジョンから脱出することで、私は収容所の収容者たちを解放することになった...そして彼らと共に、私たちはイレニカスを後退させることができた。それは勝利だが、空しいものだ...メイジはまだ倒されていない。そしてイモエンと私の両方がまだ魂を失ったままだ...~
 //@11722 Chapter 6 -> Chapter 18
-@2000045 = ~Chapter 18
+@2000045 = ~第18章
 
-Leaving Spellhold and following Irenicus and Bodhi, I ended up in the Underdark. There I learned that the pair had contrived to steal the eggs of Adalon, a silver dragon... and had bargained them to the dark elves in return for passage and perhaps a service I am unaware of. The dragon disguised me as a drow so that I could infiltrate Ust Natha, and through her efforts and mine, I was able to survive the Underdark, learning a bit of Irenicus and his plan along the way.
+スペルホールドを離れ、イレニカスとボーディを追って、私はアンダーダークに行き着いた。そこで私は、この二人がシルバー・ドラゴンのアダロンの卵を盗むよう企み...それをダークエルフたちと取引し、通行と、おそらく私が知らない何らかのサービスと引き換えにしたことを知った。ドラゴンは私をドロウに変装させ、私がウスト・ナサに潜入できるようにし、彼女の尽力と私の尽力によって、私はアンダーダークを生き延びることができ、その過程でイレニカスと彼の計画について少し学んだ。
 
-As near as I can figure, the actions of Irenicus nullified Adalon's influence as the guardian of an elven temple, and though the drow care little for conquest above ground, it has allowed them to deliver an insulting blow to the surface elves. The drow have now destroyed a very ancient and symbolic elven holy site, drawing a large elven force to secure the area and retaliate if necessary. Many have died on either side. Obviously, Irenicus plans to use the carnage to his advantage... but how?~
+私が理解できる限りでは、イレニカスの行動はエルフの神殿の守護者としてのアダロンの影響力を無効にし、ドロウは地上の征服にはほとんど関心がないものの、それによって彼らは地上のエルフたちに侮辱的な一撃を与えることができた。ドロウは今や非常に古く象徴的なエルフの聖地を破壊し、その地域を確保し、必要であれば報復するために大規模なエルフの軍勢を引き寄せた。双方で多くの者が死んだ。明らかに、イレニカスはこの殺戮を自分の有利に利用するつもりだ...しかしどうやって？~
 //@23513 Chapter 7: Part 1 -> Chapter 19: Part 1
-@2000046 = ~Chapter 19: Part 1
+@2000046 = ~第19章：第一部
 
-Elhan, the leader of the elven army, has filled in many pieces of the puzzle regarding Irenicus. The mage and his sister were once elves... and their ambition, their desire for power to rival the gods, led them to perform an atrocity that resulted in everything that was elven being stripped from them. Left to the longevity of a human, they each found different ways to extend their lives... Bodhi through vampirism, Irenicus through power... both plotting to regain entry into Suldanessellar so that they could have their revenge, as well as another chance to gain the power they desired.
+エルフ軍の指導者エルハンは、イレニカスに関する謎の多くの断片を埋めてくれた。メイジと彼の妹はかつてエルフだった...そして彼らの野心、神々に匹敵する力への欲望が、彼らを暴虐へと導き、その結果、エルフ的なすべてのものが彼らから剥ぎ取られた。人間の寿命に縛られて、彼らはそれぞれ命を延ばすための異なる方法を見つけた...ボーディは吸血鬼化を通じて、イレニカスは力を通じて...二人ともサルダネッセラーへの再入場を企み、復讐を果たし、さらに望む力を得る別の機会を得ようとしていた。
 
-Irenicus had invaded Suldanessellar while the elven army busied itself with the drow... and then he cloaked the elven city in an illusion that hid it from anyone else. Elhan sent me to collect a mystic lantern, the Rhynn Lanthorn, that would dispel the illusion. The item was stolen from the elven holy site by Bodhi... resulting in a difficult confrontation that destroyed the vampire once and for all. Now all that remains to be dealt with is Irenicus. His plans must be stopped, and I must regain my soul or be damned to death... or worse...~
+イレニカスはエルフ軍がドロウに忙殺されている間にサルダネッセラーを侵略し...そしてエルフの都市を幻影で覆い、他の誰からも隠した。エルハンは私に、幻影を打ち消す神秘の灯火、リン・ランソーンを回収するよう送った。この品はボーディによってエルフの聖地から盗まれていた...結果として困難な対決となり、ヴァンパイアを完全に破壊した。今や残っているのはイレニカスだけだ。彼の計画は阻止されなければならず、私は魂を取り戻さなければ死に...あるいはもっと悪いことに呪われるだろう...~
 //@5743 Chapter 7: Part 2 -> Chapter 19: Part 2
-@2000047  = ~Chapter 19: Part 2
+@2000047  = ~第19章：第二部
 
-Irenicus had attempted to walk amongst the gods, taking the power of the elven Tree of Life for himself. I stopped him... and while he was still weakened from Queen Ellesime's severing of his connection to the Tree, I managed to kill him.
+イレニカスは神々の間を歩もうと試み、エルフの生命の樹の力を自分のものにしようとした。私は彼を止めた...そしてエレシーム女王が樹との彼の繋がりを断ち切ったことで彼がまだ弱っている間に、私は彼を殺すことに成功した。
 
-But it isn't over. He still has my soul, and perhaps that was reason enough for me to be dragged into Hell after him. Perhaps it was the power of the Tree, or something else; I don't know. But I am in Hell now, with one last chance to track down Irenicus and take my soul back.
+しかしそれは終わっていない。彼はまだ私の魂を持っており、おそらくそれが私が彼の後を追って地獄に引きずり込まれた十分な理由だったのだろう。おそらく樹の力か、あるいは何か別のものか。わからない。しかし私は今、地獄にいる。イレニカスを追跡し、私の魂を取り戻す最後の機会を持って。
 
-Here it will have to end. One way or another.~
+ここでそれは終わらなければならない。何らかの形で。~
 
 /////                                                  \\\\\
 ///// BG2:ToB                                          \\\\\
 /////                                                  \\\\\
 
 //@73256 Chapter 8 -> Chapter 20
-@2000048 = ~Chapter 20
+@2000048 = ~第20章
 
-It has begun.
+それは始まった。
 
-Even before I left Suldanessellar, the news had already begun pouring in from everywhere... tales of armies on the move, whole towns being destroyed to get at some lone wizard, massive carnage and destruction along the entire Sword Coast. It all links to the Bhaalspawn. They are being hunted, or hunting each other... whatever the case, wherever a child of Bhaal is, violence soon follows. And so the fear and panic have spread, with any innocent even suspected of having the taint being driven from their homes or killed outright.
+サルダネッセラーを出る前から、すでにあらゆる場所からニュースが押し寄せ始めていた...軍隊が進軍しているという話、ある孤独なウィザードを捕らえるために町全体が破壊されているという話、ソード・コースト全域に渡る大規模な殺戮と破壊。それはすべてバールの落とし子に繋がっている。彼らは狩られているか、互いに狩り合っているか...どちらにせよ、バールの子がいるところには必ず暴力が続く。そして恐怖とパニックが広がり、汚れを持っていると疑われただけの無辜の者さえもが家から追われたり、即座に殺されたりしている。
 
-Even the elven lands are not immune, and I sensed considerable relief upon my departure from the very city that I helped save. Ellesime, at least, offered me some advice... there is a part of the old elven woods that houses old ancestor spirits of the elves, spirits locked within giant carved faces made so long ago not even the elves remember when they were created. It is a sacred place reserved only for royalty, but Ellesime is allowing me to enter the dale and glean what wisdom I can.
+エルフの土地さえも免れることはなく、私が救うのを手伝ったまさにその都市から私が去った時、相当な安堵を感じた。エレシームは、少なくとも私にいくつかの助言を与えてくれた...古いエルフの森には、エルフの古い祖先の霊を宿す場所がある。その霊は、あまりに昔に作られたため、エルフたちでさえいつ作られたのか覚えていないほどの巨大な彫刻された顔の中に閉じ込められている。それは王族だけのために確保された神聖な場所だが、エレシームは私が谷に入り、できる限りの知恵を得ることを許可してくれた。
 
-I have gone alone... none of the elven forest folk want to be near me. And while no others are supposed to be here, I am sure that danger stalks me yet. I should prepare my weapons and equipment and be ready for anything...~
+私は一人で来た...エルフの森の民は誰も私の近くにいたがらない。そして他の者はここにいるべきではないが、危険がまだ私につきまとっていることは確かだ。私は武器と装備を準備し、何にでも備えるべきだ...~
 //@73258 Chapter 9 -> Chapter 21
-@2000049 = ~Chapter 21
+@2000049 = ~第21章
 
-Saradush has been sacked. Yaga-Shura had burst through the wall to find a Bhaalspawn... myself. I was not there, however, so he contented himself with destroying everything in his path, including all the other children of Bhaal that had sought refuge there.
+サラドゥーシュは略奪された。ヤガ=シューラがバールの落とし子...私を見つけるために壁を突き破った。しかし私はそこにいなかったので、彼はそこに避難していた他のバールの子たちを含む、行く手にあるすべてのものを破壊することで満足した。
 
-Melissan survived, though she seemed devastated. I am one of the few Bhaalspawn that remain... the only others are a group comprised individually of the most powerful of Bhaal's children that remain in Faerun. They have been hunting their siblings, including me, but to what end even Melissan doesn't know. Perhaps they seek to raise Bhaal and become his earthbound avatars. Perhaps they seek to become gods themselves. But they will not rest until I am dead... and their powers combined are enough to destroy even me, so Melissan claims.
+メリッサンは生き残ったが、打ちのめされているように見えた。私は残り少ないバールの落とし子の一人だ...他にいるのは、フェイルーンに残るバールの子たちの中で個々に最も強力な者たちで構成されたグループだけだ。彼らは私を含む兄弟姉妹たちを狩ってきたが、何のためなのかメリッサンでさえ知らない。おそらく彼らはバールを復活させ、彼の地上の化身になろうとしているのだろう。おそらく彼ら自身が神になろうとしているのだろう。しかし彼らは私が死ぬまで休むことはない...そして彼らの力を合わせれば、私でさえ破壊するのに十分だと、メリッサンは主張する。
 
-I have little choice but to take Melissan's offer of help. She knows of a safe haven in the Calishite desert... a place called Amkethran... from which I can plan how best to confront these Bhaalspawn who hunt me and end all questions about my future and my destiny... whatever it may truly be... once and for all.~
+私にはメリッサンの助けの申し出を受けるしか選択肢がほとんどない。彼女はカリシャイトの砂漠に安全な避難所を知っている...アムケスランと呼ばれる場所だ...そこから私を狩るこれらのバールの落とし子たちにどう立ち向かうのが最善かを計画し、私の未来と運命についてのすべての疑問を...それが真に何であれ...きっぱりと終わらせることができる。~
 //@73257 Chapter 10 -> Chapter 22
-@2000050 = ~Chapter 22
+@2000050 = ~第22章
 
-All has finally been revealed to me.
+すべてがついに私に明らかにされた。
 
-Bhaal is not returning. Perhaps he might have, if evil could be counted on to do as it is asked. Bhaal left the key to his resurrection with his high priestess, and she has betrayed him, using all the power of the collected souls of Bhaal's dead children to turn herself into a goddess and leave Bhaal dead where he belongs.
+バールは戻ってこない。もし悪が求められた通りに行うと信じられるなら、彼は戻ってきたかもしれない。バールは彼の復活の鍵を大祭司に託したが、彼女は彼を裏切り、バールの死んだ子たちの集められた魂のすべての力を使って、自らを女神に変え、バールをあるべき場所、死んだままにした。
 
-Melissan tricked her former master, and she tricked me. She manipulated all the Bhaalspawn, even the members of the Five that she had collected secretly to kill the others. Even Balthazar, who didn't trust her and intended to kill her.
+メリッサンは彼女の元主人を欺き、そして彼女は私を欺いた。彼女はすべてのバールの落とし子を操った。他の者たちを殺すために密かに集めたファイブのメンバーたちでさえも。彼女を信用せず、彼女を殺すつもりだったバルサザールさえも。
 
-I am the last of Bhaal's children... but even now Melissan holds most of the power that he once had. She is in the Abyss... and my only means of getting there was to destroy the pocket plane that I had unintentionally created. I am ready to face her now.
+私はバールの子の最後の一人だ...しかし今でもメリッサンは彼がかつて持っていた力のほとんどを保持している。彼女は奈落にいる...そして私がそこに行く唯一の手段は、私が意図せず創造したポケット次元界を破壊することだった。私は今、彼女と対峙する準備ができている。
 
-There is no turning back.~
+後戻りはできない。~
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -329,66 +329,66 @@ There is no turning back.~
 /////                                                  \\\\\
 
 //@16203 no changes
-@2000051 = ~Chapter One~
+@2000051 = ~第1章~
 //@16204 no changes
-@2000052 = ~Chapter Two~
+@2000052 = ~第2章~
 //@16205 no changes
-@2000053 = ~Chapter Three~
+@2000053 = ~第3章~
 //@16206 no changes
-@2000054 = ~Chapter Four~
+@2000054 = ~第4章~
 //@16207 no changes
-@2000055 = ~Chapter Five~
+@2000055 = ~第5章~
 //@16208 no changes
-@2000056 = ~Chapter Six~
+@2000056 = ~第6章~
 //@16209 no changes
-@2000057 = ~Chapter Seven~
+@2000057 = ~第7章~
 
 /////                                                  \\\\\
 ///// BG:SoD                                           \\\\\
 /////                                                  \\\\\
 
 //@56369 no changes
-@2000058 = ~Chapter Eight~
+@2000058 = ~第8章~
 //@56370 no changes
-@2000059 = ~Chapter Nine~
+@2000059 = ~第9章~
 //@56372 no changes
-@2000060 = ~Chapter Ten~
+@2000060 = ~第10章~
 //@56374 no changes
-@2000061 = ~Chapter Eleven~
+@2000061 = ~第11章~
 //@56376 no changes
-@2000062 = ~Chapter Twelve~
+@2000062 = ~第12章~
 //@56975 no changes
-@2000063 = ~Chapter Thirteen~
+@2000063 = ~第13章~
 
 /////                                                  \\\\\
 ///// BG2:SoA                                          \\\\\
 /////                                                  \\\\\
 
 //@74414 Chapter 1
-@2000064 = ~Chapter Thirteen~
+@2000064 = ~第13章~
 //@74412 Chapter 2
-@2000065 = ~Chapter Fourteen~
+@2000065 = ~第14章~
 //@74390 Chapter 3
-@2000066 = ~Chapter Fifteen~
+@2000066 = ~第15章~
 //@74407 Chapter 4
-@2000067 = ~Chapter Sixteen~
+@2000067 = ~第16章~
 //@74399 Chapter 5
-@2000068 = ~Chapter Seventeen~
+@2000068 = ~第17章~
 //@74400 Chapter 6
-@2000069 = ~Chapter Eighteen~
+@2000069 = ~第18章~
 //@74353 Chapter 7
-@2000070 = ~Chapter Nineteen~
+@2000070 = ~第19章~
 
 /////                                                  \\\\\
 ///// BG2:ToB                                          \\\\\
 /////                                                  \\\\\
 
 //@71020 Chapter 8
-@2000071 = ~Chapter Twenty~
+@2000071 = ~第20章~
 //@71021 Chapter 9
-@2000072 = ~Chapter Twenty One~
+@2000072 = ~第21章~
 //@71022 Chapter 10
-@2000073 = ~Chapter Twenty Two~
+@2000073 = ~第22章~
 
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
@@ -398,25 +398,25 @@ There is no turning back.~
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 
-@2000074 = ~CHAPTER ONE~
-@2000075 = ~CHAPTER TWO~
-@2000076 = ~CHAPTER THREE~
-@2000077 = ~CHAPTER FOUR~
-@2000078 = ~CHAPTER FIVE~
-@2000079 = ~CHAPTER SIX~
-@2000080 = ~CHAPTER SEVEN~
-@2000081 = ~CHAPTER EIGHT~
-@2000082 = ~CHAPTER NINE~
-@2000083 = ~CHAPTER TEN~
-@2000084 = ~CHAPTER ELEVEN~
-@2000085 = ~CHAPTER TWELVE~
-@2000086 = ~CHAPTER THIRTEEN~
-@2000087 = ~CHAPTER FOURTEEN~
-@2000088 = ~CHAPTER FIFTEEN~
-@2000089 = ~CHAPTER SIXTEEN~
-@2000090 = ~CHAPTER SEVENTEEN~
-@2000091 = ~CHAPTER EIGHTEEN~
-@2000092 = ~CHAPTER NINETEEN~
-@2000093 = ~CHAPTER TWENTY~
-@2000094 = ~CHAPTER TWENTY ONE~
-@2000095 = ~CHAPTER TWENTY TWO~
+@2000074 = ~第1章~
+@2000075 = ~第2章~
+@2000076 = ~第3章~
+@2000077 = ~第4章~
+@2000078 = ~第5章~
+@2000079 = ~第6章~
+@2000080 = ~第7章~
+@2000081 = ~第8章~
+@2000082 = ~第9章~
+@2000083 = ~第10章~
+@2000084 = ~第11章~
+@2000085 = ~第12章~
+@2000086 = ~第13章~
+@2000087 = ~第14章~
+@2000088 = ~第15章~
+@2000089 = ~第16章~
+@2000090 = ~第17章~
+@2000091 = ~第18章~
+@2000092 = ~第19章~
+@2000093 = ~第20章~
+@2000094 = ~第21章~
+@2000095 = ~第22章~
